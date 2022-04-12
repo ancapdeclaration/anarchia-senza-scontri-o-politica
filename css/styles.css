@@ -1,21 +1,8 @@
 html, body {
-	background-color: #f4dd05;
+	background-color: #fff;
 	height: 100%;
 }
 
-.full-height {
-	height: 100%;
-	display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.almost-full-height {
-	height: 55%;
-	/*display: flex;*/
-  justify-content: center;
-  align-items: center;
-}
 
 .container {
 	max-width: 1000px;
@@ -51,6 +38,6 @@ h3 {
 p {
 	color: #000;
 	font-family: arial;
-	font-size: 30px;
-	font-weight: 700;
+	font-size: 18px;
+	font-weight: normal;
 }

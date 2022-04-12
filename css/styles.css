@@ -17,21 +17,21 @@ p, h1, h2 {
 h1 {
 	color: #000;
 	text-transform: uppercase;
-	font-family: impact;
+	font-family: arial;
 	font-size: 100px;
 }
 
 h2 {
 	color: #000;
 	text-transform: uppercase;
-	font-family: impact;
+	font-family: arial;
 	font-size: 80px;
 }
 
 h3 {
 	color: #000;
 	text-transform: uppercase;
-	font-family: impact;
+	font-family: arial;
 	font-size: 40px;
 }
 
